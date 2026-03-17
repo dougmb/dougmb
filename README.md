@@ -1,4 +1,4 @@
-# Olá, sou Douglas Bianchi
+# Olá, sou Douglas Martins Bianchi
 
 Desenvolvedor Full-Stack apaixonado por criar soluções com impacto real — de sistemas municipais a ferramentas pessoais do dia a dia.
 
