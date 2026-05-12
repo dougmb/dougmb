@@ -1,34 +1,62 @@
-# Olá, sou Douglas Martins Bianchi
+ # Olá, sou Douglas Martins Bianchi
 
-Desenvolvedor Full-Stack apaixonado por criar soluções com impacto real — de sistemas municipais a ferramentas pessoais do dia a dia.
+  Desenvolvedor Full-Stack apaixonado por criar soluções com impacto real — de sistemas municipais a ferramentas
+  pessoais do dia a dia.
 
-### 👨‍💻 Sobre mim
-- 💼 Desenvolvendo sistemas full-stack para gestão municipal.
-- 🏛️ Trabalho com tecnologia aplicada ao setor público, com foco em eficiência e acessibilidade.
-- 🐧 Usuário de Arch Linux e Ubuntu CLI-only — acredito em ambientes minimalistas e produtivos.
-- 🐚 Gerencio meus dotfiles com o método de bare repository no GitHub (Fish, Kitty, Starship, Zathura...).
+  ### 👨‍💻 Sobre mim
+  - 💼 Desenvolvendo sistemas full-stack para gestão municipal.
+  - 🏛️  Trabalho com tecnologia aplicada ao setor público, com foco em eficiência e acessibilidade.
+  - 🐧 Usuário de Arch Linux e Ubuntu CLI — acredito em ambientes minimalistas e produtivos.
+  - 🐚 dotfiles bare repository GitHub (Fish, Kitty, Starship, Zathura...).
+
+  ### 🚀 No que estou trabalhando
+  - Aplicação tablet-first para fiscalização municipal, com impressão térmica Zebra (ZPL), PWA offline-capable e integração LDAP.
+  - Automatização do meu ambiente: scripts em Fish, temas para Kitty/Starship e workflows que tiram a fricção do dia a
+  dia.
+
+  ### 🌱 Atualmente aprendendo
+  - Arquiteturas event-driven e modelagem de domínio em sistemas legados.
+  - **Tauri** para empacotar apps desktop nativos leves a partir de stack web.
+  - PostgreSQL avançado: triggers, CTEs recursivas, índices e otimização de queries.
+
+  ### 💡 Filosofia
+  > Menos abstração, mais clareza.
+  > Ferramentas que somem do caminho — código que se explica sem comentários.
+
+  ### 🛠️  Minhas Ferramentas
+
+  **Frontend** <br>
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+  **Backend** <br>
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+  ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+  ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
+  ![LDAP](https://img.shields.io/badge/LDAP-007CC1?style=for-the-badge)
+
+  **DevOps & Ambiente** <br>
+  ![ArchLinux](https://img.shields.io/badge/arch%20linux-%231793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+  **Editor & Shell** <br>
+  ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+  ![Fish Shell](https://img.shields.io/badge/fish_shell-%234aae47.svg?style=for-the-badge&logo=fish&logoColor=white)
+  ![Kitty](https://img.shields.io/badge/kitty-%23000000.svg?style=for-the-badge&logo=kitty&logoColor=white)
+  ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
-### 🛠️ Minhas Ferramentas
-
-**Frontend** <br>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend** <br>
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-
-**DevOps & Ambiente** <br>
-![Arch Linux](https://img.shields.io/badge/arch%20linux-%231793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+### 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/douglas-martins-bianchi-04b13750])
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dougmbs@gmail.com)
