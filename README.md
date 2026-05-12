@@ -7,7 +7,7 @@ Desenvolvedor Full-Stack apaixonado por criar soluções com impacto real — de
 - 🏛️ Trabalho com tecnologia aplicada ao setor público, com foco em eficiência e acessibilidade.
 - 🐧 Usuário de Arch Linux e Ubuntu CLI-only — acredito em ambientes minimalistas e produtivos.
 - 🐚 Gerencio meus dotfiles com o método de bare repository no GitHub (Fish, Kitty, Starship, Zathura...).
-- 🎮 Nas horas vagas: World of Warcraft e experimentos com automação.
+
 
 ### 🛠️ Minhas Ferramentas
 
