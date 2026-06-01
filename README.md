@@ -53,10 +53,6 @@
   ![Kitty](https://img.shields.io/badge/kitty-%23000000.svg?style=for-the-badge&logo=kitty&logoColor=white)
   ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-  ### 📊 GitHub Stats
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dougmbs&show_icons=true&theme=tokyonight&hide_border=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dougmbs&layout=compact&theme=tokyonight&hide_border=true)
-
   ### 📫 Contact
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-martins-bianchi-04b13750)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dougmbs@gmail.com)
